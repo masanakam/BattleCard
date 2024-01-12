@@ -15,5 +15,5 @@ Automate the detection and recovery of failures in critical IT systems.
 ## Qualifying questions
 
 - Do you have a system that needs to be up and running 24/7?
-- When you happen to restore a backup in the event of a failure or disaster, you will lose the data accumulated since the last backup. Is there any data that cannot afford such a loss?
-- You might have redundancy and monitoring for hardware components like storage (RAID) and network (NIC teaming). However, do you have it for software components such as the OS and applications?
+- When you happen to restore a backup in the event of a failure or disaster, you will lose the data accumulated since the last backup. Do you have any data that cannot afford such a loss?
+- You might have redundancy and monitoring for hardware components like storage (RAID) and network (NIC teaming). Do you have the redundancy for software components such as the OS and applications?
