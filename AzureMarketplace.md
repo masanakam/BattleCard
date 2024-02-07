@@ -8,8 +8,8 @@ Cost reduction for hardware and its management.
 
 Leveling initial investment in BCP[^1] by flexible payment
 
-- Hourly pay-per-use
-- 3 years or monthly subscription
+- Hourly pay-per-use ($0.39)
+- 3 years(30% discount), annualy(10% discount) or monthly subscription
 
 Flexible configuration
 
