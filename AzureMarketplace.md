@@ -20,6 +20,6 @@ Flexible configuration
 
 - Do you sell your application/system on cloud without high-availability?
 - Do you have DR or Backup site on cloud for your on-premise critical IT system?
-- Do you plan your BCP budget every few years? How about to leveling it out annually or quarterly?
+- Do you plan your BCP budget every few years? How about leveling it out annually or quarterly?
 
 [^1]: Business Continuity Planning
