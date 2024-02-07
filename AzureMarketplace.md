@@ -13,13 +13,13 @@ Leveling initial investment in BCP[^1] by flexible payment
 
 Flexible configuration
 
-- Standby or Backup VM on cloud for Production server on-premise.
+- Standby or Backup VM on cloud for on-premise Production server.
 - Active and Standby VMs on cloud
 
 ## Qualifying questions
 
 - Do you sell your application/system on cloud without high-availability?
-- Do you have DR or Backup site on cloud for your critical IT system on-premise?
+- Do you have DR or Backup site on cloud for your on-premise critical IT system?
 - Do you plan your BCP budget every few years? How about to leveling it out annually or quarterly?
 
 [^1]: Business Continuity Planning
