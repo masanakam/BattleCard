@@ -4,7 +4,7 @@ This is specific to EC on Azure Marketplace. The general battle card is [General
 
 ## Elevator pitch
 
-Achieves availability that exceeds the 99.99% availability provided by cloud vendors.
+Achieves availability that exceeds the 99.9% availability provided by cloud vendors.
 
 Cost reduction for hardware and its management.
 
